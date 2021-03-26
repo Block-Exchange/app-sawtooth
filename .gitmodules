@@ -1,6 +1,3 @@
-[submodule "askmish/sawtooth-simplewallet"]
-    path = askmish/sawtooth-simplewallet
-    url = https://github.com/askmish/sawtooth-simplewallet.git
 [submodule "sawtooth-simplewallet"]
 	path = sawtooth-simplewallet
 	url = https://github.com/askmish/sawtooth-simplewallet.git
